@@ -1,7 +1,7 @@
 # Banking-End-To-End-Pipeline
 ## MASTER REQUIREMENTS & GOVERNANCE DOCUMENT
 
-## 📑 TABLE OF CONTENTS
+## TABLE OF CONTENTS
 
 1. Executive Summary
 2. Project Vision & Business Case
