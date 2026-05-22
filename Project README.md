@@ -1,4 +1,4 @@
-# Key Stone BANK DATA END-TO-END PIPELINE
+# KEYSTONE BANK DATA END-TO-END PIPELINE
 
 ## Table of Contents
 
@@ -15,13 +15,13 @@
 
 ## 1. Project Context & Vision
 
-- **Project Name:** Key Stone Bank Analytics Platform  
+- **Project Name:** KeyStone Bank Analytics Platform  
 - **Vision:** Build a modern banking data platform that turns raw banking data into trusted insights, reports, dashboards, and future data science use cases.  
 - **Core Problem Statement:** Banking data is often spread across different systems such as customers, accounts, transactions, loans, cards, branches, and digital channels. Because the data is separated, it becomes difficult to get one trusted view of the business, build reliable reports, detect risks early, and support better decision-making.
 
 ### 1.1 Background
 
-The Key Stone Bank data engineering and analytics project is a learning-focused but realistic initiative to design and build an end-to-end banking data platform using Microsoft Fabric concepts.
+The KeyStone Bank data engineering and analytics project is a learning-focused but realistic initiative to design and build an end-to-end banking data platform using Microsoft Fabric concepts.
 
 The aim is to create a central place where banking data can be collected, cleaned, organized, modeled, and made ready for reporting, analysis, and future machine learning work. Instead of having separate files, disconnected tables, and manual reports, this project will show how a real data team could move from raw banking data into trusted business-ready outputs.
 
@@ -38,7 +38,7 @@ In simple terms, this project is about learning how to take messy banking data a
 ### 1.2 Business Objective
 
 **Vision:**  
-To help Key Stone Bank become more data-driven by creating a secure, scalable, and trusted analytics platform that transforms raw banking data into clear business insights.
+To help KeyStone Bank become more data-driven by creating a secure, scalable, and trusted analytics platform that transforms raw banking data into clear business insights.
 
 **Main Objective:**  
 To design and build a Microsoft Fabric-based data pipeline that moves data through clear stages:
@@ -74,7 +74,7 @@ This is a rough starting list of common banking use cases. The list will be upda
 
 ## 2. Business Success Criteria
 
-The Key Stone Bank Analytics Platform will be considered successful if it delivers measurable business value, trusted data, and useful reporting outputs.
+The KeyStone Bank Analytics Platform will be considered successful if it delivers measurable business value, trusted data, and useful reporting outputs.
 
 ### 2.1 Trusted Data Foundation
 
@@ -186,7 +186,7 @@ The platform should create a foundation for future use cases such as:
 
 ## 3. Inventory Resources
 
-This section lists the resources needed to plan, build, manage, and deliver the Key Stone Bank Analytics Platform.
+This section lists the resources needed to plan, build, manage, and deliver the KeyStone Bank Analytics Platform.
 
 ### 3.1 People Resources
 
